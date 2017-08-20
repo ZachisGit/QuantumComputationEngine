@@ -1,4 +1,4 @@
-# QuantumComputaionEngine
+# QuantumComputationEngine
 The Quantum Computation Engine (QCE) is my experimental quantum-computation simulator. I will build it from the ground up to learn about quantum computing and to experiment with it. My goal is to create a high efficiency simulator that is CUDA powered for maximum computation speed. I will start by supplying a couple of resources, if you are interested.
 
 # Resources
