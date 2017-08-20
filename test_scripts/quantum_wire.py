@@ -3,7 +3,7 @@ import numpy as np
 in_vec = np.array([1.0,0])
 h_matrix = np.array([[1.0,1],[1,-1]])/np.sqrt(2.0)
 
-print "in_vec:",in_vec 
+print "in_vec:",in_vec
 print "H_Matrix:",h_matrix
 
 def run_prob(qbit):
