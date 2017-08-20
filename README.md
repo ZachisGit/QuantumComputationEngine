@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=LhtnECml-KI
 More about the physics behind the hardware implementation by Veritasium:<br/>
 https://www.youtube.com/watch?v=IcrBqCFLHIY&list=PLkahZjV5wKe_dajngssVLffaCh2gbq55_
 <br/>
+<br/>
+# All beginnings are humble
+<img src='qce_main_empty_image.png'/>
