@@ -22,3 +22,8 @@ https://www.youtube.com/watch?v=IcrBqCFLHIY&list=PLkahZjV5wKe_dajngssVLffaCh2gbq
 <br/>
 # All beginnings are humble
 <img src='qce_main_empty_image.png'/>
+
+# Quantum Gates
+Like in classical computing you have a couple of logic gates from which you can derive any mathematical function or algorithm there is.
+Similarly in quantum computing you have quantum gates that performe operations on the underlying qbits.
+<img src='qgates.png'/>
