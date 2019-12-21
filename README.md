@@ -52,3 +52,8 @@ chmod 755 forest-sdk-2.15.1-linux-deb.run
 # run the Forest SDK installer
 ./forest-sdk-2.15.1-linux-deb.run
 ```
+
+## Run QVM
+    
+    # Simulation mode starts a server on port 5000
+    qvm -S
