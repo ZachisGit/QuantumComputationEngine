@@ -31,13 +31,24 @@ Similarly in quantum computing you have quantum gates that performe operations o
 
 # Rigetti Installation
 Installing https://github.com/rigetti/pyquil
+
     *https://github.com/rigetti/quilc
     *https://github.com/rigetti/qvm
 
-```Download Forest SDK
+```
+# download Forest SDK
 wget http://downloads.rigetti.com/qcs-sdk/forest-sdk-2.15.1-linux-deb.tar.bz2
+
+# unpack archive
 7z x forest-sdk-2.15.1-linux-deb.tar.bz2
 7z x forest-sdk-2.15.1-linux-deb.tar
+
+# enter folder
 cd forest-sdk-2.15.1-linux-deb
+
+# set execution permissions
 chmod 755 forest-sdk-2.15.1-linux-deb.run
-./forest-sdk-2.15.1-linux-deb.run```
+
+# run the Forest SDK installer
+./forest-sdk-2.15.1-linux-deb.run
+```
