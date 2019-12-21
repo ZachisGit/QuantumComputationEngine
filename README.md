@@ -27,3 +27,17 @@ https://www.youtube.com/watch?v=IcrBqCFLHIY&list=PLkahZjV5wKe_dajngssVLffaCh2gbq
 Like in classical computing you have a couple of logic gates from which you can derive any mathematical function or algorithm there is.
 Similarly in quantum computing you have quantum gates that performe operations on the underlying qbits.
 <img src='qgates.png'/>
+
+
+# Rigetti Installation
+Installing https://github.com/rigetti/pyquil
+    *https://github.com/rigetti/quilc
+    *https://github.com/rigetti/qvm
+
+```Download Forest SDK
+wget http://downloads.rigetti.com/qcs-sdk/forest-sdk-2.15.1-linux-deb.tar.bz2
+7z x forest-sdk-2.15.1-linux-deb.tar.bz2
+7z x forest-sdk-2.15.1-linux-deb.tar
+cd forest-sdk-2.15.1-linux-deb
+chmod 755 forest-sdk-2.15.1-linux-deb.run
+./forest-sdk-2.15.1-linux-deb.run```
